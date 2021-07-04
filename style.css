@@ -122,7 +122,7 @@ body{
   z-index: 100;
   width: 100%;
   position: absolute;
-  top: 700px;
+  top: 630px;
 }
 .curvy img{
   width: 100%;
@@ -141,6 +141,7 @@ body{
   align-items: center;
   flex-wrap: wrap;
   font-family: 'Raleway', sans-serif;
+  z-index: 999;
 }
 .access .col-1{
   flex: 50%;
